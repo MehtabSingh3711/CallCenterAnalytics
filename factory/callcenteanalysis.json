@@ -1,0 +1,9 @@
+{
+	"name": "callcenteanalysis",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81fe23cc-a4f8-4dd3-8023-2ae699dfd50e",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
