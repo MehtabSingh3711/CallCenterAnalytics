@@ -1,0 +1,9 @@
+{
+	"name": "transcription",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40a52d19-8f6b-4b6d-ad6c-0efc56c9cfdb",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
